@@ -1,0 +1,34 @@
+.about{
+    scroll-margin-top: 13rem;
+    flex: 1;
+    text-align: justify;
+    color: rgb(13, 54, 1);
+    padding: 40px;
+    margin: 0 auto 40px auto; 
+    max-width: 1200px; 
+    border-radius: 10px;
+}
+
+.about h2{
+    font-size: 2rem;
+}
+
+.about h3{
+    font-size: 3rem;
+}
+.about p{
+    font-size: 1.8rem;
+}
+
+@media (max-width: 768px) {
+  .about h2 {
+    font-size: 2.8rem
+  }
+  .about h3{
+    font-size: 2.3rem;
+  }
+  
+  .about p {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,41 @@
+.projects{
+     background-color: rgb(188, 240, 129); 
+    color:  rgb(13, 54, 1); 
+    padding: 40px;
+    margin: 0 auto 40px auto; 
+    max-width: 660px; 
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    text-align: center; 
+    margin-top: 15rem;
+}
+
+.forth-title{
+    margin-top: 5rem;
+    font-size: larger;
+}
+
+
+
+.first-title{
+    text-align: center;
+}
+
+.fith-title{
+    margin-top: 2rem;
+}
+
+.projects .p{
+    text-align: left;
+}
+
+.link-prototipo {
+  text-decoration: underline;
+  color: #0c2c0d;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.link-prototipo:hover {
+  opacity: 0.7;
+}
