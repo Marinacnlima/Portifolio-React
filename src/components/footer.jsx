@@ -6,7 +6,7 @@ function Footer() {
         <h4>Entre em contato via Email!</h4>
 
         <a href="mailto:mcnl2@cin.ufpe.br">
-          <img src="/assets/marketing-de-email.png" width="40" alt="Email"/>
+          <img src="/~mcnl2/marketing-de-email.png" width="40" alt="Email"/>
         </a>
         <p> 
             email: mcnl2@cin.ufpe.br

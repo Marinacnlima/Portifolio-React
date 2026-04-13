@@ -17,7 +17,7 @@ function Header() {
         <div className="header__right">
           <div className="header__image">
             <img 
-              src="/assets/IMG_06222.jpg" 
+              src="/~mcnl2/IMG_06222.jpg" 
               alt="Marina" 
               className="marina"
             />
